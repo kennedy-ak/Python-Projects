@@ -4,6 +4,9 @@
 
 1. Nato Alphabet:
     The folder contains a CSV file containing the entire Nato phonetic Alphabet as well as a Nato.py file. The program takes a user-entered word and finds each letter's    equivalent in the NATO alphabet. List and Dictionary Comprehension was used
+    
+2. [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique) :
+    
 
 2. Etch a Sketch is a famous childhood game where we are able to draw on the screen using the arrow keys, Using turtle Graphics we are able to achive this
 
