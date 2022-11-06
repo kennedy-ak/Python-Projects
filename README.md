@@ -8,13 +8,13 @@
 2. [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique) : The folder contains a main.py file which contains the code, and a tomato imaage
     
 
-2. Etch a Sketch is a famous childhood game where we are able to draw on the screen using the arrow keys, Using turtle Graphics we are able to achive this
+2. [Etch a Sketch](https://en.wikipedia.org/wiki/Etch_A_Sketch) : is a famous childhood game where we are able to draw on the screen using the arrow keys, Using turtle Graphics we are able to achive this
 
 
 3. Password Generator:  
 password generator is a user-friendly program that assists individuals in creating strong passwords. The program asks the user a series of questions before generating passwords for them.
 
-4. Project (Hirst dot painting): 
+4. [Project (Hirst dot painting)](https://www.artsy.net/artist-series/damien-hirst-spots) : 
 Damien Hirst is a well-known English artist who has produced and sold works worth millions of dollars. I recreate one of his paintings using the turtle graphics."The Hirst Dot painting"
 
 5. Turtle Race:
